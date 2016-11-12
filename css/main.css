@@ -3,13 +3,9 @@
 	padding: 0;
 }
 
-nav {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	top: 0;
-	height: auto;
-	background-color: #F0BD35;
+header {
+  background-color: #F0BD35;
+  margin-bottom: 40px;
 }
 
 .pcontainer {
@@ -53,15 +49,7 @@ div img {
 	font-size: 18px;
 }
 
-body {
-	padding-top: 110px;
-}
-
-.col-nav {
+.col-12 {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
-
-/*p {
-	overflow:hidden; white-space: nowrap;
-}*/
